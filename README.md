@@ -17,3 +17,5 @@
 ✔️ Tabel is showed in Home Component (but built globally in App comp as side comp will need to acess it)
 
 ✔️ Typescript 
+
+I had already made a simillar crud app and was very busy , so i am submitting this appologies ,hope you understand
