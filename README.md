@@ -4,7 +4,7 @@
 # yarn install 
 # yarn start 
  
-
+PS: I had already made a simillar crud app and was very busy , so i am submitting this appologies ,hope you understand
 
 ✔️ Each section of the is a separate react component.
   
@@ -18,4 +18,4 @@
 
 ✔️ Typescript 
 
-I had already made a simillar crud app and was very busy , so i am submitting this appologies ,hope you understand
+
