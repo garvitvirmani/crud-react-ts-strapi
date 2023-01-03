@@ -6,6 +6,9 @@
  
 PS: I had already made a simillar crud app and was very busy , so i am submitting this appologies ,hope you understand
 
+<img width="960" alt="s1" src="https://user-images.githubusercontent.com/100471242/210306967-83827c35-fbc6-41c5-a410-9bbbe858f0d8.png">
+
+
 ✔️ Each section of the is a separate react component.
   
 ✔️ MUI v5  
