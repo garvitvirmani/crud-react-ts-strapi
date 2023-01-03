@@ -2,7 +2,7 @@
 # TO get started 
 # start strapi server for back-end at port : 1337
 # yarn install 
-# yarn start 
+# yarn run dev
  
 PS: I had already made a simillar crud app and was very busy , so i am submitting this appologies ,hope you understand
 
